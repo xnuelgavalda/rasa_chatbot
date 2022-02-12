@@ -1,7 +1,4 @@
-# Project: University Student Admission Prediction
-> The goal of this project is to predict the admission of a student in an University.
-
-> Dataset: https://www.kaggle.com/adityadeshpande23/admissionpredictioncsv
+# Project: Chatbot deployed on Rasa
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -15,16 +12,17 @@
 
 
 ## General Information
-The goal of this project is to predict the admission of a student in an University taking into account the following points:
-- General test score (GRE).
-- Test of English as a Foreign Language score (TOEFL).
-- University rating.
-- Statement of Purpose (SOP).
-- Letter of Recommendation (LOR). 
-- Cumulative Grade Point Average (CGPA).
-- Whether the student has experience in research or not.
+The goal of this project is to build, implement and deploy a python chatbot using Rasa (https://rasa.com/).
 
-Purpose: Practice the implementation of different Regression Machine Learning models till deployment (Heroku).
+A chatbot is an application that can initiate and continue a conversation using auditory and/or textual methods as a human would do. A chatbot can be either a simple rule-based engine or an intelligent application leveraging Natural Language Understanding. Many organizations today have started using chatbots extensively. Chatbots are becoming famous as they are available 24x7, provide a consistent customer experience, can handle several customers at a time, are cost-effective and hence, results in a better overall customer experience.
+
+A chatbot can be used for the following purposes:
+    • Customer support
+    • Frequently Asked Questions
+    • Addressing Grievances
+    • Appointment Booking
+    • Automation of routine tasks
+    • Address a query
 
 ## Technologies Used
 - Python 3.8.12
