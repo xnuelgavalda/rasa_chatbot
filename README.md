@@ -1,7 +1,4 @@
-# Project: University Student Admission Prediction
-> The goal of this project is to predict the admission of a student in an University.
-
-> Dataset: https://www.kaggle.com/adityadeshpande23/admissionpredictioncsv
+# Rasa Chatbot Project
 
 ## Table of Contents
 * [General Information](#general-information)
